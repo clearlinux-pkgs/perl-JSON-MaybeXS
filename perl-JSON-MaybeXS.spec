@@ -4,7 +4,7 @@
 #
 Name     : perl-JSON-MaybeXS
 Version  : 1.004000
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/H/HA/HAARG/JSON-MaybeXS-1.004000.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/H/HA/HAARG/JSON-MaybeXS-1.004000.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libj/libjson-maybexs-perl/libjson-maybexs-perl_1.004000-1.debian.tar.xz
