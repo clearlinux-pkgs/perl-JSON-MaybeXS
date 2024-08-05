@@ -6,10 +6,10 @@
 # autospec commit: f35655a
 #
 Name     : perl-JSON-MaybeXS
-Version  : 1.004006
-Release  : 32
-URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-MaybeXS-1.004006.tar.gz
-Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-MaybeXS-1.004006.tar.gz
+Version  : 1.004007
+Release  : 33
+URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-MaybeXS-1.004007.tar.gz
+Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-MaybeXS-1.004007.tar.gz
 Summary  : 'Use L<Cpanel::JSON::XS> with a fallback to L<JSON::XS> and L<JSON::PP>'
 Group    : Development/Tools
 License  : Artistic-1.0-Perl GPL-1.0
@@ -55,10 +55,10 @@ perl components for the perl-JSON-MaybeXS package.
 
 
 %prep
-%setup -q -n JSON-MaybeXS-1.004006
-cd %{_builddir}/JSON-MaybeXS-1.004006
+%setup -q -n JSON-MaybeXS-1.004007
+cd %{_builddir}/JSON-MaybeXS-1.004007
 pushd ..
-cp -a JSON-MaybeXS-1.004006 buildavx2
+cp -a JSON-MaybeXS-1.004007 buildavx2
 popd
 
 %build
