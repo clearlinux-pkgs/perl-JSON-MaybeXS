@@ -7,7 +7,7 @@
 #
 Name     : perl-JSON-MaybeXS
 Version  : 1.004008
-Release  : 37
+Release  : 38
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-MaybeXS-1.004008.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/JSON-MaybeXS-1.004008.tar.gz
 Summary  : 'Use L<Cpanel::JSON::XS> with a fallback to L<JSON::XS> and L<JSON::PP>'
